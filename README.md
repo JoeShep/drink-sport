@@ -1,4 +1,4 @@
-drink-sport!!!!
+Drink-Sport, a rec league signup, scheduling, and scores management app.
 ===========
 
 A joint collaboration by:
