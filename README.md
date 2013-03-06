@@ -26,7 +26,7 @@ Phases 1 and 2:
   the addition of new teams).
 - Adding scores calculates winning percentage for the teams and updates/sorts the league list with a table of 
   each team's wins and losses and winning percentage. The team with the highest winning percentage is listed first.
-  The scores also appear in the schedule table in place of the scheduled game time. 
+  The scores also appear in the schedule table in place of the scheduled game time.  
 
 
 
